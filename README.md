@@ -15,16 +15,21 @@
 
 ## 🙋🏽‍♂️ About Me
 
-- Software Engineering undergraduate at INATEL
-- Discrete Mathematics teaching assistant
-- HTML & CSS enthusiast
-- Interested in front-end development and algorithms
+- Software Engineering student at INATEL;
+- Discrete Mathematics teaching assistant/
+- HTML & CSS enthusiast;
+- Interested in front-end development ;
+- Working to enhance my development skills and knowledge;
+- Pop culture and video games enthusiast in my free time.
 
+| Now Playing on Spotify                                                                                                                                                                                                                |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=4pm4znzt7flxlitb7ji56zf9y&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false) |
+  
 ## 🚀 Skills & Interests
 
-- Front-end development with HTML, CSS, and TypeScript
-- Academic projects in C++ and JavaScript
-- Passionate about logic, algorithms, and web interfaces
+- Front-end development with HTML, CSS, and TypeScript;
+- Passionate about logic, algorithms, and web interfaces.
 
 ## 💻 **Tech Stack**
 
