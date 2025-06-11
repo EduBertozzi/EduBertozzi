@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Eduardo Bertozzi
+## 👋 Hello there! I am Eduardo Bertozzi!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/muriloonunes/muriloonunes/output/snake.svg" alt="Snake animation" />
