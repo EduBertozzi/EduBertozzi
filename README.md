@@ -24,7 +24,7 @@
 
 | Now Playing on Spotify                                                                                                                                                                                                                |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Spotify](**https://spotify-github-profile.kittinanx.com/api/view?uid=4pm4znzt7flxlitb7ji56zf9y**&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false) |
+| ![Spotify](**https://spotify-github-profile.kittinanx.com/api/view?uid=4pm4znzt7flxlitb7ji56zf9y&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false) |
   
 ## 🚀 Skills & Interests
 
