@@ -62,4 +62,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin?username=EduBertozzi&repo=pokedex&locale=en&theme=blue_navy&title_color=7cf800" alt="pokedex"/>
 </a>
 
-##
+## 📫 Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-bertozzi/)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:eduardo.bertozzi@ges.inatel.br)
+
