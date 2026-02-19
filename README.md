@@ -22,9 +22,9 @@
 - Working to enhance my development skills and knowledge;
 - Pop culture and video games enthusiast in my free time.
 
-| Now Playing on Spotify                                                                                                                                                                                                                |
+| Now Playing on Apple Music                                                                                                                                                                                                           |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=v4z4jaouj2n7o0ctpz9yf1kiz&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false) |
+| ![Apple Music](https://music-widget.vercel.app/api/apple-music?id=bertozzidudu)
 
   
 ## 🚀 Skills & Interests
