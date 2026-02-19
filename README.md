@@ -24,7 +24,7 @@
 
 | 🎧 Now on Apple Music |
 | :--- |
-| ![Apple Music](https://music-widget.vercel.app/api/apple-music?id=leyIMxLCMzJ8Z63)
+| [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000934.455414debe8c4df8b40998c1580a2973.1921)](https://music-profile.rayriffy.com)
 
 
   
