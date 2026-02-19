@@ -22,9 +22,10 @@
 - Working to enhance my development skills and knowledge;
 - Pop culture and video games enthusiast in my free time.
 
-| Now Playing on Apple Music                                                                                                                                                                                                           |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Apple Music](https://music-widget.vercel.app/api/apple-music?id=bertozzidudu)
+| 🎧 Now on Apple Music |
+| :--- |
+| [![Apple Music](https://img.shields.io/badge/Escutando-Apple%20Music-FB245D?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/profile/bertozzidudu) |
+
 
   
 ## 🚀 Skills & Interests
