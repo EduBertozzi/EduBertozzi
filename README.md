@@ -63,11 +63,12 @@ interests:  [Web Interfaces, Logic, Algorithms, Pop Culture, Video Games]
 
 | Project | Description | Stack |
 |---|---|---|
+| [🌐 EduBertozzi.github.io](https://github.com/EduBertozzi/EduBertozzi.github.io) | Personal portfolio website | HTML/CSS |
 | [🧾 contai-accounting-dashboard](https://github.com/EduBertozzi/contai-accounting-dashboard) | Accounting dashboard with modern UI | TypeScript |
-| [📱 app-inatel](https://github.com/EduBertozzi/app-inatel) | Front-end discipline project | HTML |
-| [🌐 first-front](https://github.com/EduBertozzi/first-front) | First front-end project | HTML/CSS |
-| [📋 formulario-cadastro](https://github.com/EduBertozzi/formulario-cadastro) | Registration form | CSS |
+| [📡 pof-monitoring](https://github.com/EduBertozzi/pof-monitoring) | PoF project monitoring system | CSS |
+| [🗄️ Database-Hogwarts](https://github.com/EduBertozzi/Database-Hogwarts) | Hogwarts-themed database project | SQL |
 | [🎮 pokedex](https://github.com/EduBertozzi/pokedex) | Pokédex — Algorithms III project | C++ |
+| [📋 formulario-cadastro](https://github.com/EduBertozzi/formulario-cadastro) | Simple registration form | CSS |
 
 ---
 
