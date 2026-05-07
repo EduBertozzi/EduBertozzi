@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7CF800&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Eduardo+Bertozzi+%F0%9F%91%8B;Front-end+Developer;Software+Engineering+@+INATEL;HTML+%26+CSS+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7CF800&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Eduardo+Bertozzi+%F0%9F%91%8B;Front-end+Developer;Software+Engineering+%40+INATEL;React+Enthusiast+%E2%9A%9B%EF%B8%8F" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-bertozzi/)
 [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:eduardo.bertozzi@ges.inatel.br)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EduBertozzi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bertoozzi/)
 
 </div>
 
@@ -19,7 +19,7 @@ name:       Eduardo Bertozzi
 location:   Santa Rita do Sapucaí, MG 🇧🇷
 education:  Software Engineering @ INATEL
 role:       Teaching Assistant – Discrete Mathematics
-focus:      Front-end Development
+focus:      Front-end Development & React
 interests:  [Web Interfaces, Logic, Algorithms, Pop Culture, Video Games]
 ```
 
@@ -61,14 +61,13 @@ interests:  [Web Interfaces, Logic, Algorithms, Pop Culture, Video Games]
 
 ## 📂 Featured Projects
 
-<div align="center">
-
-[![contai](https://github-readme-stats.vercel.app/api/pin?username=EduBertozzi&repo=contai-accounting-dashboard&theme=blue_navy&title_color=7cf800&hide_border=true)](https://github.com/EduBertozzi/contai-accounting-dashboard)
-[![app-inatel](https://github-readme-stats.vercel.app/api/pin?username=EduBertozzi&repo=app-inatel&theme=blue_navy&title_color=7cf800&hide_border=true)](https://github.com/EduBertozzi/app-inatel)
-[![first-front](https://github-readme-stats.vercel.app/api/pin?username=EduBertozzi&repo=first-front&theme=blue_navy&title_color=7cf800&hide_border=true)](https://github.com/EduBertozzi/first-front)
-[![pokedex](https://github-readme-stats.vercel.app/api/pin?username=EduBertozzi&repo=pokedex&theme=blue_navy&title_color=7cf800&hide_border=true)](https://github.com/EduBertozzi/pokedex)
-
-</div>
+| Project | Description | Stack |
+|---|---|---|
+| [🧾 contai-accounting-dashboard](https://github.com/EduBertozzi/contai-accounting-dashboard) | Accounting dashboard with modern UI | TypeScript |
+| [📱 app-inatel](https://github.com/EduBertozzi/app-inatel) | Front-end discipline project | HTML |
+| [🌐 first-front](https://github.com/EduBertozzi/first-front) | First front-end project | HTML/CSS |
+| [📋 formulario-cadastro](https://github.com/EduBertozzi/formulario-cadastro) | Registration form | CSS |
+| [🎮 pokedex](https://github.com/EduBertozzi/pokedex) | Pokédex — Algorithms III project | C++ |
 
 ---
 
@@ -82,6 +81,6 @@ interests:  [Web Interfaces, Logic, Algorithms, Pop Culture, Video Games]
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/muriloonunes/muriloonunes/output/snake.svg" alt="Snake animation" />
-  
+
   ![Profile views](https://komarev.com/ghpvc/?username=EduBertozzi&color=7cf800&style=flat-square&label=Profile+Views)
 </div>
